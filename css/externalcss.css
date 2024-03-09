@@ -1,0 +1,85 @@
+body {
+    background-color: beige;
+    width: 100%;
+     }
+
+header h1 {
+    background-color: antiquewhite;
+    text-align: center;
+    font-family: cursive ;
+    border-style:double;
+          }
+
+header p {
+    width: 60%;
+    background-color: blanchedalmond;
+         }
+
+nav {
+    background-color: blanchedalmond;  
+    width: 60%;
+    }
+
+footer {
+    text-align: center;
+    background-color: blanchedalmond;
+    border-top: solid;
+    border-bottom: solid;
+       }
+
+#A {
+    background-color: blanchedalmond;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    width: 95%;
+    }
+
+#A img {
+    border-style: solid;
+       }
+
+#I {
+    background-color: blanchedalmond;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    width: 95%;
+    }
+
+#I img {
+    border-style: solid;
+       }
+
+#H {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    width: 95%;
+    }
+
+#H img {
+    border-style: solid;
+        }
+
+#S {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    width: 95%;
+   }
+
+#S img {
+    border-style: solid;
+       }
+
+#T {
+    background-color: blanchedalmond;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    width: 95%;
+   }
+
+#T img {
+        border-style: solid;
+       }
+
+#W {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    width: 95%;
+   }
+
+#W img {
+    border-style: solid;
+       }

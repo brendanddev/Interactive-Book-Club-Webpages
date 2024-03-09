@@ -1,0 +1,24 @@
+body {
+    background-color: beige;
+    }
+
+body h1 {
+    background-color: antiquewhite;
+    text-align: center;
+    border-style: solid;
+    width: 100%;
+        }
+
+body p {
+    background-color: beige;
+    width: 100%;
+        }
+
+footer p {
+    text-align: center;
+    border-style:groove;
+    background-color: blanchedalmond;
+    border-top: solid;
+    border-bottom: solid;
+    width: 100%;
+        }
